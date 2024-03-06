@@ -1,0 +1,44 @@
+#   Video Song Store
+
+This is a Java program for managing a video song store for doing the mini project in Java as an Beginner for better understanding of ArrayList and Objects in Java. The program allows users to view available video songs, rent a video song, return a rented video song, and exit the store.
+
+## Features
+- View available video songs.
+- Rent a video song.
+- Return a rented video song.
+- User-friendly interface.
+- Input validation for user choices.
+
+## Usage
+1. Clone the repository to your local machine.
+2. Compile the `VS.java` file using any Java compiler.
+3. Run the compiled file (`VS.class`) using the Java interpreter.
+
+## How to Use
+- Upon running the program, you will be presented with a menu where you can choose various options.
+- Choose option 1 to see the available video songs.
+- Choose option 2 to rent a video song.
+- Choose option 3 to return a rented video song.
+- Choose option 4 to exit the program.
+
+## Note
+- Only one song can be rented or returned at a time.
+- After renting or returning a song, you need to run the program again to perform another action.
+
+## Color Codes
+- RED: Error messages.
+- GREEN: Prompts and success messages.
+- YELLOW: Menu options.
+- BLUE: Title of the program.
+- PURPLE: Note messages.
+
+## Requirements
+- Java Development Kit (JDK)
+
+## Contribution
+- Contributions are welcome! Feel free to fork the repository and submit pull requests for any improvements or bug fixes.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+---
